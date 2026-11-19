@@ -17,6 +17,7 @@ Software architect and founder of **[Datazo InfoTech](https://www.datazoinfotech
 | 2008–2010 | Full Stack Web Developer | Bangladesh Institute of Management Studies, Dhaka |
 | 2010–2016 | Software Engineer → Senior Software Engineer → Oracle Developer | IT Magnet BD, Dhaka |
 | 2013–2017 | MPhil, Computer Science & Engineering | BUET |
+| 2016–2018 | Freelance Software Developer | Self-employed, remote clients |
 | 2018–2019 | Senior Software Development Engineer (contract) | Dynavics Ltd, UK |
 | 2018–2022 | Senior Software Developer (contract) | Toptal |
 | 2018–2024 | Solutions Architect (freelance) | PeoplePerHour |
