@@ -36,6 +36,7 @@ Reference implementations with tests, CI and documented trade-offs.
   <a href="https://github.com/md-rubbaite/carbon-credit-registry-solidity"><img src="assets/repo-carbon-credit-registry-solidity.svg" alt="carbon-credit-registry-solidity" width="49%"></a>
 </p>
 <p align="center">
+  <a href="https://github.com/md-rubbaite/rag-evaluation-pipeline"><img src="assets/repo-rag-evaluation-pipeline.svg" alt="rag-evaluation-pipeline" width="49%"></a>
   <a href="https://github.com/md-rubbaite/architecture-review-kit"><img src="assets/repo-architecture-review-kit.svg" alt="architecture-review-kit" width="49%"></a>
 </p>
 
