@@ -1,16 +1,57 @@
-# Hi, I'm Rubbaite T. Hassain
+<p align="center">
+  <img src="assets/banner.svg" alt="Rubbaite T. Hassain, Software Architect and Founder of Datazo InfoTech" width="100%">
+</p>
 
-Software architect and founder of **[Datazo InfoTech](https://www.datazoinfotech.com.bd)**, a software and AI engineering company in Dhaka with an engineering team in New York. Building software since 2008.
+<p align="center">
+  <a href="https://www.linkedin.com/in/rubbaite"><img src="assets/badges/linkedin.svg" alt="LinkedIn" height="34"></a>
+  <a href="https://www.upwork.com/freelancers/~01ee111f2f8a58debe"><img src="assets/badges/upwork.svg" alt="Hire me on Upwork" height="34"></a>
+  <a href="https://stackoverflow.com/users/7767514/rubbaite-t-hassain"><img src="assets/badges/stackoverflow.svg" alt="Stack Overflow" height="34"></a>
+  <a href="https://tanvir.info.bd"><img src="assets/badges/website.svg" alt="tanvir.info.bd" height="34"></a>
+  <a href="https://www.datazoinfotech.com.bd"><img src="assets/badges/company.svg" alt="datazoinfotech.com.bd" height="34"></a>
+</p>
 
-## What I work on
+<p align="center">
+  I design and review systems where failure is expensive: <b>payments, ledgers, patient data and cloud platforms</b>.<br>
+  Building software since 2008. Founder &amp; Managing Director of <a href="https://www.datazoinfotech.com.bd"><b>Datazo InfoTech</b></a>, with teams in Dhaka and New York.
+</p>
 
-- Solution & software architecture, architecture reviews, technical due diligence
-- .NET / C#, ASP.NET Core, SQL Server, Oracle
-- Azure & AWS: identity (Azure AD B2C), DevOps, Docker, Kubernetes, Terraform
-- Secure systems for fintech and healthcare
-- Practical AI: LLM features and RAG in business workflows
+## How I can help
 
-## Career journey — since 2008
+<p align="center"><img src="assets/services.svg" alt="Architecture and reviews · Cloud security and cost · FinTech and HealthTech" width="100%"></p>
+
+## Featured work
+
+Reference implementations with tests, CI and documented trade-offs.
+
+<p align="center">
+  <a href="https://github.com/md-rubbaite/payment-idempotency-dotnet"><img src="assets/repo-payment-idempotency-dotnet.svg" alt="payment-idempotency-dotnet" width="49%"></a>
+  <a href="https://github.com/md-rubbaite/fintech-ledger-dotnet"><img src="assets/repo-fintech-ledger-dotnet.svg" alt="fintech-ledger-dotnet" width="49%"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/md-rubbaite/fhir-consent-gateway-dotnet"><img src="assets/repo-fhir-consent-gateway-dotnet.svg" alt="fhir-consent-gateway-dotnet" width="49%"></a>
+  <a href="https://github.com/md-rubbaite/modular-monolith-dotnet"><img src="assets/repo-modular-monolith-dotnet.svg" alt="modular-monolith-dotnet" width="49%"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/md-rubbaite/azure-secure-landing-zone"><img src="assets/repo-azure-secure-landing-zone.svg" alt="azure-secure-landing-zone" width="49%"></a>
+  <a href="https://github.com/md-rubbaite/carbon-credit-registry-solidity"><img src="assets/repo-carbon-credit-registry-solidity.svg" alt="carbon-credit-registry-solidity" width="49%"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/md-rubbaite/architecture-review-kit"><img src="assets/repo-architecture-review-kit.svg" alt="architecture-review-kit" width="49%"></a>
+</p>
+
+## How I think about architecture
+
+> **Review the failure path, not just the happy path.** What happens when the call succeeds but the response disappears?<br>
+> **Start simple, extract with evidence.** A modular monolith first; microservices when scaling, release cadence or isolation demands it.<br>
+> **Security and cost are design inputs.** Managed identities over secrets, private endpoints over public ones, budgets before bills.<br>
+> **Decide and record.** Every significant choice gets an ADR, with the metric that should reopen it.
+
+## Career since 2008
+
+<p align="center"><img src="assets/timeline.svg" alt="Career timeline: 2008 BIMS, 2010 IT Magnet BD, 2013 MPhil BUET, 2016 freelance, 2018 Toptal, Dynavics and PeoplePerHour, 2020 Founder of Datazo InfoTech and Turing, 2022 Chief Software Architect at Sequoia Networks" width="100%"></p>
+
+<details>
+<summary>Full career history</summary>
 
 | Years | Role | Organisation |
 |---|---|---|
@@ -25,9 +66,9 @@ Software architect and founder of **[Datazo InfoTech](https://www.datazoinfotech
 | 2020–present | Founder & Managing Director | Datazo InfoTech |
 | 2022–present | Chief Software Architect (contract) | Sequoia Networks |
 
-Developer → senior engineer → solutions architect → chief architect & founder.
+</details>
 
-## Selected work (architecture & technical lead)
+## Selected client work
 
 | Project | Domain | Highlights |
 |---|---|---|
@@ -37,16 +78,37 @@ Developer → senior engineer → solutions architect → chief architect & foun
 | Open Forest Protocol | Sustainability | Field-data mobile app, analytics web app, blockchain verification |
 | SOS Systems asset tracking | Enterprise IT | Smart-contract audit trail, real-time updates, integration API |
 
-Case studies: [datazoinfotech.com.bd/case-studies](https://www.datazoinfotech.com.bd/case-studies/)
+More case studies at [datazoinfotech.com.bd/case-studies](https://www.datazoinfotech.com.bd/case-studies/).
+
+## Certifications
+
+<p align="center"><img src="assets/certifications.svg" alt="CISM, CGEIT (ISACA) · SSCP (ISC2) · CCNA, CCNP (Cisco) · AWS Certified Cloud Practitioner · Microsoft AZ-104" width="100%"></p>
 
 ## Tech stack
 
-C# · .NET · ASP.NET Core · React · SQL Server · Oracle · Azure · AWS · Docker · Kubernetes · Terraform
+<p align="center">
+  <img src="assets/badges/csharp.svg" alt="C#" height="34">
+  <img src="assets/badges/dotnet.svg" alt=".NET" height="34">
+  <img src="assets/badges/react.svg" alt="React" height="34">
+  <img src="assets/badges/sqlserver.svg" alt="SQL Server" height="34">
+  <img src="assets/badges/oracle.svg" alt="Oracle" height="34">
+  <img src="assets/badges/azure.svg" alt="Azure" height="34">
+  <img src="assets/badges/aws.svg" alt="AWS" height="34">
+  <img src="assets/badges/docker.svg" alt="Docker" height="34">
+  <img src="assets/badges/kubernetes.svg" alt="Kubernetes" height="34">
+  <img src="assets/badges/terraform.svg" alt="Terraform" height="34">
+  <img src="assets/badges/bicep.svg" alt="Bicep" height="34">
+  <img src="assets/badges/solidity.svg" alt="Solidity" height="34">
+  <img src="assets/badges/githubactions.svg" alt="GitHub Actions" height="34">
+</p>
 
-## Certifications earned
+## Writing
 
-ISACA CISM, CGEIT · ISC2 SSCP · Cisco CCNA, CCNP · AWS Certified Cloud Practitioner · Microsoft Azure Administrator Associate (AZ-104)
+I write the **Software Development** newsletter on LinkedIn, covering architecture, cloud cost governance (FinOps) and AI-assisted delivery for engineering leaders. [Read the articles →](https://www.linkedin.com/in/rubbaite/recent-activity/articles/)
 
-## Connect
+## Let's talk
 
-[LinkedIn](https://www.linkedin.com/in/rubbaite) · [Upwork](https://www.upwork.com/freelancers/~01ee111f2f8a58debe) · [Stack Overflow](https://stackoverflow.com/users/7767514/rubbaite-t-hassain) · [datazoinfotech.com.bd](https://www.datazoinfotech.com.bd)
+<p align="center">
+  Planning a platform, reviewing an architecture, or fixing a system that fails in production?<br>
+  <a href="https://tanvir.info.bd"><b>tanvir.info.bd</b></a> · <a href="https://www.datazoinfotech.com.bd"><b>datazoinfotech.com.bd</b></a> · <a href="https://www.linkedin.com/in/rubbaite"><b>LinkedIn</b></a> · <a href="https://www.upwork.com/freelancers/~01ee111f2f8a58debe"><b>Upwork</b></a>
+</p>
