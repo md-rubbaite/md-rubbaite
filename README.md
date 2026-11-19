@@ -37,6 +37,9 @@ Reference implementations with tests, CI and documented trade-offs.
 </p>
 <p align="center">
   <a href="https://github.com/md-rubbaite/rag-evaluation-pipeline"><img src="assets/repo-rag-evaluation-pipeline.svg" alt="rag-evaluation-pipeline" width="49%"></a>
+  <a href="https://github.com/md-rubbaite/ai-agent-orchestration-dotnet"><img src="assets/repo-ai-agent-orchestration-dotnet.svg" alt="ai-agent-orchestration-dotnet" width="49%"></a>
+</p>
+<p align="center">
   <a href="https://github.com/md-rubbaite/architecture-review-kit"><img src="assets/repo-architecture-review-kit.svg" alt="architecture-review-kit" width="49%"></a>
 </p>
 
