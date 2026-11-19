@@ -10,6 +10,22 @@ Software architect and founder of **[Datazo InfoTech](https://www.datazoinfotech
 - Secure systems for fintech and healthcare
 - Practical AI: LLM features and RAG in business workflows
 
+## Career journey — since 2008
+
+| Years | Role | Organisation |
+|---|---|---|
+| 2008–2010 | Full Stack Web Developer | Bangladesh Institute of Management Studies, Dhaka |
+| 2010–2016 | Software Engineer → Senior Software Engineer → Oracle Developer | IT Magnet BD, Dhaka |
+| 2013–2017 | MPhil, Computer Science & Engineering | BUET |
+| 2018–2019 | Senior Software Development Engineer (contract) | Dynavics Ltd, UK |
+| 2018–2022 | Senior Software Developer (contract) | Toptal |
+| 2018–2024 | Solutions Architect (freelance) | PeoplePerHour |
+| 2020–2025 | Senior Staff Software Engineer (contract) | Turing |
+| 2020–present | Founder & Managing Director | Datazo InfoTech |
+| 2022–present | Chief Software Architect (contract) | Sequoia Networks |
+
+Developer → senior engineer → solutions architect → chief architect & founder.
+
 ## Selected work (architecture & technical lead)
 
 | Project | Domain | Highlights |
