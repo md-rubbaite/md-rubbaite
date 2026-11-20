@@ -40,6 +40,7 @@ Reference implementations with tests, CI and documented trade-offs.
   <a href="https://github.com/md-rubbaite/ai-agent-orchestration-dotnet"><img src="assets/repo-ai-agent-orchestration-dotnet.svg" alt="ai-agent-orchestration-dotnet" width="49%"></a>
 </p>
 <p align="center">
+  <a href="https://github.com/md-rubbaite/devsecops-reference-pipelines"><img src="assets/repo-devsecops-reference-pipelines.svg" alt="devsecops-reference-pipelines" width="49%"></a>
   <a href="https://github.com/md-rubbaite/architecture-review-kit"><img src="assets/repo-architecture-review-kit.svg" alt="architecture-review-kit" width="49%"></a>
 </p>
 
