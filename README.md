@@ -19,6 +19,18 @@
 
 <p align="center"><img src="assets/services.svg" alt="Architecture and reviews · Cloud security and cost · FinTech and HealthTech" width="100%"></p>
 
+## Solving today's hard problems
+
+Open-source answers to problems engineering teams face right now: securing AI agents, the post-quantum deadline and runaway LLM costs. Each repo has tests, CI, an ADR and a v1.0.0 release.
+
+<p align="center">
+  <a href="https://github.com/md-rubbaite/mcp-security-gateway"><img src="assets/repo-mcp-security-gateway.svg" alt="mcp-security-gateway" width="49%"></a>
+  <a href="https://github.com/md-rubbaite/post-quantum-migration-kit"><img src="assets/repo-post-quantum-migration-kit.svg" alt="post-quantum-migration-kit" width="49%"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/md-rubbaite/llm-cost-reliability-guard"><img src="assets/repo-llm-cost-reliability-guard.svg" alt="llm-cost-reliability-guard" width="49%"></a>
+</p>
+
 ## Featured work
 
 Reference implementations with tests, CI and documented trade-offs.
