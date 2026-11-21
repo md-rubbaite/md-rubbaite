@@ -21,7 +21,7 @@
 
 ## Solving today's hard problems
 
-Open-source answers to problems engineering teams face right now: securing AI agents, the post-quantum deadline and runaway LLM costs. Each repo has tests, CI, an ADR and a v1.0.0 release.
+Open-source answers to problems engineering teams face right now: securing AI agents, the post-quantum deadline, runaway LLM costs, EU AI Act deadlines and a secure cloud baseline. Each repo has tests, CI, an ADR and a v1.0.0 release.
 
 <p align="center">
   <a href="https://github.com/md-rubbaite/mcp-security-gateway"><img src="assets/repo-mcp-security-gateway.svg" alt="mcp-security-gateway" width="49%"></a>
@@ -29,6 +29,10 @@ Open-source answers to problems engineering teams face right now: securing AI ag
 </p>
 <p align="center">
   <a href="https://github.com/md-rubbaite/llm-cost-reliability-guard"><img src="assets/repo-llm-cost-reliability-guard.svg" alt="llm-cost-reliability-guard" width="49%"></a>
+  <a href="https://github.com/md-rubbaite/eu-ai-act-compliance-kit"><img src="assets/repo-eu-ai-act-compliance-kit.svg" alt="eu-ai-act-compliance-kit" width="49%"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/md-rubbaite/cloud-native-reference-aws"><img src="assets/repo-cloud-native-reference-aws.svg" alt="cloud-native-reference-aws" width="49%"></a>
 </p>
 
 ## Featured work
