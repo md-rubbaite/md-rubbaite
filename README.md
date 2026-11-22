@@ -21,7 +21,7 @@
 
 ## Solving today's hard problems
 
-Open-source answers to problems engineering teams face right now: securing AI agents, the post-quantum deadline, runaway LLM costs, EU AI Act deadlines and a secure cloud baseline. Each repo has tests, CI, an ADR and a v1.0.0 release.
+Open-source answers to problems engineering teams face right now: securing AI agents, the post-quantum deadline, runaway LLM costs, EU AI Act deadlines, a secure cloud baseline, offline sync, reliable event publishing and legacy .NET migration. Each repo has tests, CI, an ADR and a v1.0.0 release.
 
 <p align="center">
   <a href="https://github.com/md-rubbaite/mcp-security-gateway"><img src="assets/repo-mcp-security-gateway.svg" alt="mcp-security-gateway" width="49%"></a>
@@ -33,6 +33,11 @@ Open-source answers to problems engineering teams face right now: securing AI ag
 </p>
 <p align="center">
   <a href="https://github.com/md-rubbaite/cloud-native-reference-aws"><img src="assets/repo-cloud-native-reference-aws.svg" alt="cloud-native-reference-aws" width="49%"></a>
+  <a href="https://github.com/md-rubbaite/offline-first-sync-engine"><img src="assets/repo-offline-first-sync-engine.svg" alt="offline-first-sync-engine" width="49%"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/md-rubbaite/transactional-outbox-dotnet"><img src="assets/repo-transactional-outbox-dotnet.svg" alt="transactional-outbox-dotnet" width="49%"></a>
+  <a href="https://github.com/md-rubbaite/legacy-dotnet-modernization-kit"><img src="assets/repo-legacy-dotnet-modernization-kit.svg" alt="legacy-dotnet-modernization-kit" width="49%"></a>
 </p>
 
 ## Featured work
