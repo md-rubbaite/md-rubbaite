@@ -21,10 +21,11 @@
 
 ## Flagship platforms
 
-Larger, production-style systems built end to end: architecture, security, tests, CI, container and documentation. First up: governing what AI agents are allowed to do.
+Larger, production-style systems built end to end: architecture, security, tests, CI, container and documentation. Governing what AI agents are allowed to do, and a digital twin that keeps an expressway’s traffic model in step with live detector data.
 
 <p align="center">
   <a href="https://github.com/md-rubbaite/agentic-ai-governance-platform"><img src="assets/repo-agentic-ai-governance-platform.svg" alt="agentic-ai-governance-platform" width="49%"></a>
+  <a href="https://github.com/md-rubbaite/intelligent-transportation-digital-twin"><img src="assets/repo-intelligent-transportation-digital-twin.svg" alt="intelligent-transportation-digital-twin" width="49%"></a>
 </p>
 
 ## Solving today's hard problems
