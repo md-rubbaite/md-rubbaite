@@ -19,6 +19,14 @@
 
 <p align="center"><img src="assets/services.svg" alt="Architecture and reviews · Cloud security and cost · FinTech and HealthTech" width="100%"></p>
 
+## Flagship platforms
+
+Larger, production-style systems built end to end: architecture, security, tests, CI, container and documentation. First up: governing what AI agents are allowed to do.
+
+<p align="center">
+  <a href="https://github.com/md-rubbaite/agentic-ai-governance-platform"><img src="assets/repo-agentic-ai-governance-platform.svg" alt="agentic-ai-governance-platform" width="49%"></a>
+</p>
+
 ## Solving today's hard problems
 
 Open-source answers to problems engineering teams face right now: securing AI agents, the post-quantum deadline, runaway LLM costs, EU AI Act deadlines, a secure cloud baseline, offline sync, reliable event publishing and legacy .NET migration. Each repo has tests, CI, an ADR and a v1.0.0 release.
