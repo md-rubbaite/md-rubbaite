@@ -84,7 +84,7 @@ Reference implementations with tests, CI and documented trade-offs.
 
 ## Career since 2008
 
-<p align="center"><img src="assets/timeline.svg" alt="Career timeline: 2008 BIMS, 2010 B.Engg. and IT Magnet BD, 2012 M.Engg., 2013 Master's Stanford University, 2016 freelance, 2018 Toptal, Dynavics and PeoplePerHour, 2020 Founder of Datazo InfoTech and Turing, 2022 Chief Software Architect at Sequoia Networks" width="100%"></p>
+<p align="center"><img src="assets/timeline.svg" alt="Career timeline: 2008 BIMS, 2010 B.Sc. Engg. in CSE and IT Magnet BD, 2012 M.Sc. Engg. in CSE, 2013 Master's Stanford University, 2016 freelance, 2018 Toptal, Dynavics and PeoplePerHour, 2020 Founder of Datazo InfoTech and Turing, 2022 Chief Software Architect at Sequoia Networks" width="100%"></p>
 
 <details>
 <summary>Full career history</summary>
@@ -92,9 +92,9 @@ Reference implementations with tests, CI and documented trade-offs.
 | Years | Role | Organisation |
 |---|---|---|
 | 2008–2010 | Full Stack Web Developer | Bangladesh Institute of Management Studies, Dhaka |
-| 2010 | B.Engg. | |
+| 2010 | B.Sc. Engg. in CSE | |
 | 2010–2016 | Software Engineer → Senior Software Engineer → Oracle Developer | IT Magnet BD, Dhaka |
-| 2012 | M.Engg. | |
+| 2012 | M.Sc. Engg. in CSE | |
 | 2012–2013 | Master's degree, Computational & Mathematical Engineering | Stanford University School of Engineering |
 | 2016–2018 | Freelance Software Developer | Self-employed, remote clients |
 | 2018–2019 | Senior Software Development Engineer (contract) | Dynavics Ltd, UK |
