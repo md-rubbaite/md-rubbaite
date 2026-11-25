@@ -31,11 +31,14 @@ Larger, production-style systems built end to end: architecture, security, tests
 
 ## Solving today's hard problems
 
-Open-source answers to problems engineering teams face right now: securing AI agents, the post-quantum deadline, runaway LLM costs, EU AI Act deadlines, a secure cloud baseline, offline sync, reliable event publishing and legacy .NET migration. Each repo has tests, CI, an ADR and a v1.0.0 release.
+Open-source answers to problems engineering teams face right now: securing AI agents, enterprise RAG that respects permissions, the post-quantum deadline, runaway LLM costs, EU AI Act deadlines, a secure cloud baseline, offline sync, reliable event publishing and legacy .NET migration. Each repo has tests, CI, ADRs and a tagged release.
 
 <p align="center">
   <a href="https://github.com/md-rubbaite/mcp-security-gateway"><img src="assets/repo-mcp-security-gateway.svg" alt="mcp-security-gateway" width="49%"></a>
   <a href="https://github.com/md-rubbaite/post-quantum-migration-kit"><img src="assets/repo-post-quantum-migration-kit.svg" alt="post-quantum-migration-kit" width="49%"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/md-rubbaite/trustrag"><img src="assets/repo-trustrag.svg" alt="trustrag" width="49%"></a>
 </p>
 <p align="center">
   <a href="https://github.com/md-rubbaite/llm-cost-reliability-guard"><img src="assets/repo-llm-cost-reliability-guard.svg" alt="llm-cost-reliability-guard" width="49%"></a>
