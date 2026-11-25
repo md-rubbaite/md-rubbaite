@@ -150,3 +150,5 @@ I write the **Software Development** newsletter on LinkedIn, covering architectu
   Planning a platform, reviewing an architecture, or fixing a system that fails in production?<br>
   <a href="https://tanvir.info.bd"><b>tanvir.info.bd</b></a> · <a href="https://www.datazoinfotech.com.bd"><b>datazoinfotech.com.bd</b></a> · <a href="https://www.linkedin.com/in/rubbaite"><b>LinkedIn</b></a> · <a href="https://www.upwork.com/freelancers/~01ee111f2f8a58debe"><b>Upwork</b></a>
 </p>
+
+<p align="center"><sub>Repositories on this profile: architecture, requirements and review by Rubbaite T. Hassain; implementation AI-assisted.</sub></p>
